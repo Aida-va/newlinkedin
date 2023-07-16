@@ -1,0 +1,104 @@
+.icon {
+  width: 22px;
+  height: 22px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.icon-notification {
+  background-image: url(../icons/notification.svg);
+}
+.icon-briefcase {
+  background-image: url(../icons/briefcase.svg);
+}
+.icon-calendar {
+  background-image: url(../icons/calendar.svg);
+}
+
+.icon-chevronup {
+  background-image: url(../icons/chevronup.svg);
+}
+.icon-chevronupdown {
+  background-image: url(../icons/chevronupdown.svg);
+}
+.icon-edit {
+  background-image: url(../icons/edit1.svg);
+}
+.icon-ellipse {
+  background-image: url(../icons/ellipse.svg);
+}
+.icon-grid {
+  background-image: url(../icons/grid.svg);
+}
+.icon-hashtag {
+  background-image: url(../icons/hashtag.svg);
+}
+.icon-heart {
+  background-image: url(../icons/heart.svg);
+}
+.icon-home {
+  background-image: url(../icons/home.svg);
+}
+.icon-grid {
+  background-image: url(../icons/grid.svg);
+}
+.icon-message {
+  background-image: url(../icons/messagesquare\ .svg);
+}
+.icon-more {
+  background-image: url(../icons/more-horizontal.svg);
+}
+.icon-plus {
+  background-image: url(../icons/plus.svg);
+}
+.icon-search {
+  background-image: url(../icons/search.svg);
+}
+.icon-send {
+  background-image: url(../icons/send\ .svg);
+}
+.icon-share {
+  background-image: url(../icons/share.svg);
+}
+.icon-like {
+  background-image: url(../icons/thumbs-upcolor.svg);
+}
+.icon-thumbsup {
+  background-image: url(../icons/thumbs-up\ .svg);
+}
+.icon-users {
+  background-image: url(../icons/users.svg);
+}
+.icon-video {
+  background-image: url(../icons/video.svg);
+}
+.icon-userblue {
+  background-image: url(../icons/users\ blue.svg);
+}
+.icon-plus {
+  background-image: url(../icons/plusblue.svg);
+}
+.icon-camera {
+  background-image: url(../icons/camera\ .svg);
+}
+.icon-cameragrey {
+  background-image: url(../icons/camera-grey.svg);
+}
+.icon-plusblue {
+  background-image: url(../icons/plusblue.svg);
+}
+.icon-dot {
+  background-image: url(../icons/dot.svg);
+}
+.icon-editwhite {
+  background-image: url(../icons/edit-white.svg);
+}
+.icon-ellipsewhite {
+  background-image: url(../icons/more-horizontalwhite.svg);
+}
+.icon-upwhite {
+  background-image: url(../icons/chevron-upwhite.svg);
+}
