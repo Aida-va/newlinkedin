@@ -11,12 +11,31 @@
   .page-right {
     display: none;
   }
+
+  .white {
+    width: 60%;
+  }
+  .name {
+    display: none;
+  }
+  .status {
+    display: none;
+  }
+  .search {
+    width: 160px;
+  }
+  .navbar-text {
+    display: none;
+  }
 }
 
 /* Tablet */
 @media screen and (max-width: 768px) {
   .page-left {
     display: none;
+  }
+  .white {
+    width: 40%;
   }
 
   .page-content {
